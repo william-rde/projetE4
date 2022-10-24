@@ -1,0 +1,112 @@
+pipeline {
+    agent any
+    stages {
+        stage('Janvier') {
+            steps {
+                script {
+                    echo "Rédiger un journal intime"
+
+                      
+                }
+            }
+        }
+        stage('Février') {
+            steps {
+                script {
+                    echo "Redécorer la maison pour me sentir bien"
+   
+                }
+            }
+        }
+        
+                stage('Mars') {
+            steps {
+                script {
+                    echo "Prendre soin de soi"
+   
+                }
+            }
+        }
+        
+                        stage('Avril') {
+            steps {
+                script {
+                    echo "Soyez gentil"
+   
+                }
+            }
+        }
+        
+                        stage('Mai') {
+            steps {
+                script {
+                    echo "Faites quelque chose que vous n’avez jamais fait auparavant"
+   
+                }
+            }
+        }
+        
+                        stage('Juin') {
+            steps {
+                script {
+                    echo "Passez du temps avec le vôtre"
+   
+                }
+            }
+        }
+        
+                        stage('Juillet') {
+            steps {
+                script {
+                    echo "Aller à un concert et danser"
+   
+                }
+            }
+        }
+        
+                        stage('Août') {
+            steps {
+                script {
+                    echo "Dormir une nuit sur la plage"
+   
+                }
+            }
+        }
+        
+                        stage('Septembre') {
+            steps {
+                script {
+                    echo "Découvrez le monde"
+   
+                }
+            }
+        }
+        
+                        stage('Octobre') {
+            steps {
+                script {
+                    echo "étudiez"
+   
+                }
+            }
+        }
+        
+                        stage('Novembre') {
+            steps {
+                script {
+                    echo "Apprendre à jouer d'un instrument"
+   
+                }
+            }
+        }
+        
+                        stage('Décembre') {
+            steps {
+                script {
+                    echo "Respirez consciencieusement"
+   
+                }
+            }
+        }
+   }
+}
