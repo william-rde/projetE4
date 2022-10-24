@@ -4,16 +4,16 @@ pipeline {
         stage('Janvier') {
             steps {
                 script {
-                    echo "Rédiger un journal intime"
+                    echo "Rediger un journal intime"
 
                       
                 }
             }
         }
-        stage('Février') {
+        stage('Fevrier') {
             steps {
                 script {
-                    echo "Redécorer la maison pour me sentir bien"
+                    echo "Redecorer la maison pour me sentir bien"
    
                 }
             }
@@ -49,7 +49,7 @@ pipeline {
                         stage('Juin') {
             steps {
                 script {
-                    echo "Passez du temps avec le vôtre"
+                    echo "Passez du temps avec le votre"
    
                 }
             }
@@ -64,7 +64,7 @@ pipeline {
             }
         }
         
-                        stage('Août') {
+                        stage('Aout') {
             steps {
                 script {
                     echo "Dormir une nuit sur la plage"
@@ -76,7 +76,7 @@ pipeline {
                         stage('Septembre') {
             steps {
                 script {
-                    echo "Découvrez le monde"
+                    echo "Decouvrez le monde"
    
                 }
             }
@@ -85,7 +85,7 @@ pipeline {
                         stage('Octobre') {
             steps {
                 script {
-                    echo "étudiez"
+                    echo "Etudiez"
    
                 }
             }
@@ -94,13 +94,13 @@ pipeline {
                         stage('Novembre') {
             steps {
                 script {
-                    echo "Apprendre à jouer d'un instrument"
+                    echo "Apprendre à jouer d un instrument"
    
                 }
             }
         }
         
-                        stage('Décembre') {
+                        stage('Decembre') {
             steps {
                 script {
                     echo "Respirez consciencieusement"
